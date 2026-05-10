@@ -1,1 +1,10 @@
 # first_repository
+
+This is my first GitHub repository
+
+# what I learned
+
+- Repository
+- Commit
+- Branch
+- Pull Request
