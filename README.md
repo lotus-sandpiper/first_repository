@@ -8,3 +8,5 @@ This is my first GitHub repository
 - Commit
 - Branch
 - Pull Request
+
+I am learning GitHub as a computer science student.
